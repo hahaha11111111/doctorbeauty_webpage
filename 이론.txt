@@ -1,0 +1,19 @@
+seelector
+	element(태그)
+	.class
+	#id
+
+박스모델
+	border: 5px solid red;
+	padding: 박스안에서 컨텐츠 까지의 간격 
+	margin: 박스사이 간격
+	display: block 이나 inline
+	width: 100px;
+
+
+Grid
+	div: block
+	span: inline
+
+
+미디어 쿼리
